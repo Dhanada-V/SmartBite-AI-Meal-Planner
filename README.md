@@ -1,8 +1,8 @@
-# Health-Aware Recipe Generator 
+# SmartBite-AI-Meal-Planner
 
 The Health-Aware Recipe Generator is an AI-powered application that helps you create personalized, health-conscious recipes and meal plans based on the ingredients you already have. Simply snap a photo of your fridge or pantry, provide your dietary preferences, and let our multi-agent AI system do the rest!
 
-## 🌟 Features
+##  Features
 
 - **Ingredient Recognition**: Upload an image of your ingredients, and our Vision AI will automatically detect what you have available.
 - **Health & Allergy Analysis**: Analyzes detected ingredients against your specific health conditions and allergies, categorizing them into Safe, Moderate, or Avoid, while suggesting healthier swaps.
@@ -12,7 +12,7 @@ The Health-Aware Recipe Generator is an AI-powered application that helps you cr
 - **Automated Shopping List**: Compares your generated meal plan with your current ingredients and produces a consolidated, cost-efficient shopping list for missing items.
 - **Daily Wellness Tips**: Offers personalized daily health tips based on your specific dietary needs and conditions.
 
-## 🏗️ Architecture & Technology Stack
+## Architecture & Technology Stack
 
 This project is built using a modern, decoupled architecture:
 
